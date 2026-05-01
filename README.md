@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarath263
+- 👋 Hi, I’m Sarath
 - 📫 Reach me on sarath263@gmail.com/ +91 8971814981
 
 <!---
