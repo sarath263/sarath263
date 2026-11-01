@@ -19,9 +19,9 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarath263&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sarath263&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/sarath263)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sarath263&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=sarath263&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sarath263)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
