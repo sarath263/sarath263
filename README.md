@@ -10,12 +10,12 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarath263&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sarath263&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" /> -->
   <img src="https://streak-stats.demolab.com/?user=sarath263&theme=radical&hide_border=true" alt="GitHub Streak" height="190" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarath263&theme=radical&layout=compact&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" width="560" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarath263&theme=radical&layout=compact&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" width="560" /> -->
 </div>
 
 ## 🏆 GitHub Trophies
